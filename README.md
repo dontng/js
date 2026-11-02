@@ -39,3 +39,7 @@ JS 不是单一商业软件，也不是限定在关节模组上的产品。它�
 本仓库公开。只收录可公开的材料与独立实现；公司源码、私有协议、设备配置和日志不直接上传。无需公开的工作资料保留在获准的工作环境，本仓库只记录不涉及敏感信息的方法。
 
 JS 是 Joint-Studio 的简称，不表示采用 JavaScript 技术栈。
+
+## 提交记录
+
+每次 AI 交付按[提交规范](docs/COMMIT_POLICY.md)记录执行者、具体修改、原因及验证。支持区分 GPT/Codex、Antigravity、Gemini 与 Claude。本地克隆后运行 `bash scripts/setup-git-policy.sh` 启用提交模板和检查。
