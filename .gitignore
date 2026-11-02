@@ -1,0 +1,25 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+# Local configuration and non-public working material
+.env
+.env.*
+!.env.example
+private/
+local/
+# Generated output (use synthetic, documented fixtures for committed examples)
+outputs/
+*.log
+# ROS2 build products
+build/
+install/
+log/
+# OS metadata
+.DS_Store
+Thumbs.db
