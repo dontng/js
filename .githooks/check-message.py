@@ -53,7 +53,7 @@ def validate(message):
 
 def main():
     if len(sys.argv) != 2:
-        print("用法: python scripts/check-commit-message.py <提交信息文件>", file=sys.stderr)
+        print("用法: python .githooks/check-message.py <提交信息文件>", file=sys.stderr)
         return 2
     errors = validate(Path(sys.argv[1]).read_text(encoding="utf-8-sig"))
     if errors:

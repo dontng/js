@@ -21,4 +21,4 @@
 - ROS2：优先对齐本轮已查阅的智元/宇树公开示例，Ubuntu 22.04 + Humble；实施前按目标 SDK 复核，不把版本永久锁死。
 - macOS：作为可选开发平台，可以在 Ubuntu 虚拟机中练习，或远程访问 Linux。Apple ARM 与厂商仅提供 x86 二进制库的兼容性必须单独确认；不默认可替代 Windows CAN 环境或 NVIDIA 计算平台。
 
-以上均非已完成部署。官方参考见[资料索引](../resources/SOURCES.md)。
+以上均非已完成部署。官方参考见[学习页的资料链接](README.md#已收集的公开资料)。
