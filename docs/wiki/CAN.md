@@ -8,6 +8,6 @@ CAN 规定消息怎样传输，但不会统一规定“哪几个字节表示电�
 
 ## 哪些名词与它有关
 
-[Qt](Qt.md)、[串口](%E4%B8%B2%E5%8F%A3.md)、[CAN盒](CAN%E7%9B%92.md)、[CAN FD](CAN%20FD.md)、[CANopen](CANopen.md)、[报文](%E6%8A%A5%E6%96%87.md)。
+[CAN盒](CAN%E7%9B%92.md)、[CANopen](CANopen.md)、[报文](%E6%8A%A5%E6%96%87.md)、[串口](%E4%B8%B2%E5%8F%A3.md)、[Qt](Qt.md)、[CAN FD](CAN%20FD.md)、[SDK](SDK.md)。
 
 [返回名词目录](README.md)

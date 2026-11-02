@@ -8,6 +8,6 @@
 
 ## 哪些名词与它有关
 
-[上位机](%E4%B8%8A%E4%BD%8D%E6%9C%BA.md)、[Python](Python.md)、[串口](%E4%B8%B2%E5%8F%A3.md)、[COM口](COM%E5%8F%A3.md)、[串口助手](%E4%B8%B2%E5%8F%A3%E5%8A%A9%E6%89%8B.md)、[USB](USB.md)、[驱动](%E9%A9%B1%E5%8A%A8.md)、[CAN](CAN.md)、[CAN FD](CAN%20FD.md)。
+[COM口](COM%E5%8F%A3.md)、[上位机](%E4%B8%8A%E4%BD%8D%E6%9C%BA.md)、[Python](Python.md)、[串口](%E4%B8%B2%E5%8F%A3.md)、[USB](USB.md)、[CAN FD](CAN%20FD.md)、[串口助手](%E4%B8%B2%E5%8F%A3%E5%8A%A9%E6%89%8B.md)、[CAN](CAN.md)、[驱动](%E9%A9%B1%E5%8A%A8.md)。
 
 [返回名词目录](README.md)

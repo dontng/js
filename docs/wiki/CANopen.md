@@ -8,6 +8,6 @@
 
 ## 哪些名词与它有关
 
-[CAN盒](CAN%E7%9B%92.md)、[CAN](CAN.md)、[报文](%E6%8A%A5%E6%96%87.md)。
+[CAN盒](CAN%E7%9B%92.md)、[报文](%E6%8A%A5%E6%96%87.md)、[CAN](CAN.md)。
 
 [返回名词目录](README.md)

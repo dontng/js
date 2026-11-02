@@ -8,6 +8,6 @@ CAN 的扩展，单帧最多可携带 64 字节数据，经典 [CAN](CAN.md) 最
 
 ## 哪些名词与它有关
 
-[CAN盒](CAN%E7%9B%92.md)、[CAN](CAN.md)、[BRS](BRS.md)、[CANopen](CANopen.md)。
+[CAN盒](CAN%E7%9B%92.md)、[CANopen](CANopen.md)、[BRS](BRS.md)、[CAN](CAN.md)。
 
 [返回名词目录](README.md)

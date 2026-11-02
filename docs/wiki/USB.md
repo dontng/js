@@ -6,6 +6,6 @@ USB 插头只告诉你设备通过什么连接电脑，不能单凭它判断程�
 
 ## 哪些名词与它有关
 
-[COM口](COM%E5%8F%A3.md)、[CAN盒](CAN%E7%9B%92.md)。
+[CAN盒](CAN%E7%9B%92.md)、[COM口](COM%E5%8F%A3.md)。
 
 [返回名词目录](README.md)
