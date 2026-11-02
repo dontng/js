@@ -8,6 +8,7 @@ JS 不是单一商业软件，也不是限定在关节模组上的产品。它�
 
 ## 从这里开始
 
+- **我在做什么、有哪些问题**：[需求与阶段问题](requirements/README.md)。
 - **今天做什么**：[当前任务](docs/CURRENT.md)。先完成这一件事。
 - **刚找到资料，不知道放哪里**：[资料收件箱](resources/inbox/README.md)。
 - **想看整体安排**：[学习与项目路线](docs/ROADMAP.md)。
@@ -17,6 +18,7 @@ JS 不是单一商业软件，也不是限定在关节模组上的产品。它�
 
 | 目录 | 放什么 | 例子 |
 |---|---|---|
+| [requirements/](requirements/README.md) | 需求、问题、阶段与解决证据 | 第一阶段要回答哪些问题 |
 | [docs/](docs/README.md) | 目标、路线、当前任务、环境和整理规则 | 当前先确认哪款 CAN 盒 |
 | [learning/](learning/README.md) | 已经消化的知识与经验 | 为什么收到的反馈要做单位换算 |
 | [resources/](resources/README.md) | 外部资料、来源登记和待整理内容 | 官方手册链接、SDK 文档出处 |
@@ -25,6 +27,10 @@ JS 不是单一商业软件，也不是限定在关节模组上的产品。它�
 | [templates/](templates/README.md) | 可选记录模板 | 实验记录、资料登记 |
 
 这些目录当前仅搭建管理骨架。没有已经完成的上位机、真实 CAN 适配或 ROS2 功能；所有技术阶段均待验证。
+
+## 问题驱动的自我迭代
+
+JS不仅存笔记，也保留问题怎样产生、拆分、回答、验证和引出下一问。按照[迭代规则](requirements/ITERATION.md)持续更新需求与阶段问题；本人能解释、修改、验证和排错才算掌握，不以AI生成量代替进步。
 
 ## 学习与工作的关系
 
@@ -43,3 +49,7 @@ JS 是 Joint-Studio 的简称，不表示采用 JavaScript 技术栈。
 ## 提交记录
 
 每次 AI 交付按[提交规范](docs/COMMIT_POLICY.md)记录执行者、具体修改、原因及验证。支持区分 GPT/Codex、Antigravity、Gemini 与 Claude。本地克隆后运行 `bash scripts/setup-git-policy.sh` 启用提交模板和检查。
+
+## 公开内容范围
+
+本仓库记录通用技术目标、需求、学习方法与实验，不收录个人背景或生活叙述。对话中出现的信息不会自动成为公开文档内容。
